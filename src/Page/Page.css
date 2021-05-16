@@ -1,0 +1,19 @@
+.prod
+{
+    background-image: url('./image/img9.jpg');
+   background-size: cover;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+  
+}
+.pro
+{
+    text-align: center;
+ padding: 20%;
+ color:white;
+ font-weight: bold;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: 3cm;
+}
